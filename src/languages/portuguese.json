@@ -1,0 +1,53 @@
+{
+  "translation": {
+
+    "HelloMyNameIs": "Hello, My name is Dennis. This is a start-up project. Thank you for your interest in contacting us. Feel free to send us any question, comment or suggestion. We will get back to you shortly.",
+    "HelloMyNameIs": "Olá, o meu nome é Dennis. O Godtasker é um projeto start-up. Obrigado pelo seu interesse em entrar em contato conosco. Fique a vontade para nos enviar qualquer pergunta, comentário ou sugestão. Enviaremos uma resposta o mais breve.",
+    "LetsTalk": "Vamos se falar",
+    "MainPage": "Página Principal",
+
+    "ThankYou": "Obrigado por se cadastrar ao Godtasker.",
+    "PleaseFollow": "Por favor segir os seguintes passos:",
+    "AnEmailHas": "1. Um e-mail foi enviado ao seu endereço de e-mail. Por gentileza confirmar o seu endereço de e-mail.",
+    "DownloadTheApp": "2. Baixar o app em um aparelho mobile (Android ou iOS).",
+    "SignInThrough": "3. Fazer Log-in através do app usando o seu e-mail e senha.",
+
+    "Home": "Home",
+    "About": "Sobre",
+    "SignUp": "Cadastre-se",
+    "GetTheApp": "Baixar o App",
+    "Contact": "Entre em Contato",
+    "CreateAndSend": "Crie e envie tarefas simples para os amigos, a família e seus colegas de trabalho",
+    "HelpThem": "Ajude eles a trazerem as respostas que você precisa",
+    "SignUpForFree": "Cadastre-se gratuitamente",
+    "AndGetTheApp": "e Baixe o app",
+
+    "NeedToGive": "Precisa delegar trabalho a alguém?",
+    "EasilyCreate": "Crie facilmente uma tarefa e a envie. Adicione um prazo e uma lista de sub-tarefas. Você pode solicitar uma foto de comprovação do resultado quando a tarefa é completada.",
+    "YouCanAlsoReceive": "Você também pode receber uma tarefa!",
+    "ItsImportant": "É importante clarificar tudo desde o início, para não haver surpresas para ninguém. Você pode receber tarefas de outras pessoas, com a opção de aceitar. Atualize o progresso em tempo real e confirme o seu trabalho com uma foto para mostrar os resultados.",
+    "KeepTrack": "Esteja a par",
+    "BothYourDelegated": "Ambas as tarefas delegadas e recebidas são mostradas em números para te deixar atualizado(a). Não deixe nada passar abatido!",
+    "Chat": "Chat",
+    "AChatFeature": "O chat disponível para quaisquer perguntas e respostas ao longo do caminho. Lembre-se, a comunicação é chave!",
+    "ShowOff": "Mostre o seu perfil pessoal",
+    "GetNoticed": "Seja notado(a), deixe pessoas te acharem, e solicitarem o seu trabalho através de tarefas. Crie uma bio de arrasar e deice o seu contato de Instagram ou LinkedIn",
+    "ForTheBold": "Para os Corajosos(as) e Organizados(as)..",
+    "Entrepreneurs": "Empreendedors",
+    "OfficeWorkers": "Escritório",
+    "Teachers": "Professores",
+    "Parents": "Pais",
+    "GrandmaHelpers": "Ajudantes da Vó",
+    "Freelancers": "Freelancers",
+    "Doctors": "Médicos",
+    "Babysitters" : "Babás",
+    "Trainers" : "Personal Trainers",
+    "ToDo" : "Lista de Tarefas",
+    "SeeIf": "Veja se Godtasker é certo para você... Com certeza é ;)",
+    "GetStarted": "Comece Hoje Mesmo!",
+    "Help": "Ajuda",
+    "Privacy": "Privacidade",
+    "Terms": "Termos e Condições",
+    "Eula": "EULA"
+  }
+}

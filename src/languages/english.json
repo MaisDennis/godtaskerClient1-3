@@ -1,0 +1,52 @@
+{
+  "translation": {
+
+    "HelloMyNameIs": "Hello, My name is Dennis. This is a start-up project. Thank you for your interest in contacting us. Feel free to send us any question, comment or suggestion. We will get back to you shortly.",
+    "LetsTalk": "Let's Talk",
+    "MainPage": "Main Page",
+
+    "ThankYou": "Thank you for signing up to The Godtasker.",
+    "PleaseFollow": "Please Follow the Next Steps:",
+    "AnEmailHas": "1. An e-mail has been sent to your e-mail address. Please confirm your e-mail address.",
+    "DownloadTheApp": "2. Download the app on a mobile device (Android or iOS).",
+    "SignInThrough": "3. Sign In through the app using your e-mail and password.",
+
+    "Home": "Home",
+    "About": "About",
+    "SignUp": "Sign Up",
+    "GetTheApp": "Get the App",
+    "Contact": "Contact Us",
+    "CreateAndSend": "Create and send simple tasks to your friends, family and co-workers",
+    "HelpThem": "Help them bring answers you need",
+    "SignUpForFree": "Sign Up for Free",
+    "AndGetTheApp": "and Get the App",
+
+    "NeedToGive": "Need to give work to someone?",
+    "EasilyCreate": "Easily create a task and send it. Add a due date, and a list of sub-items. You can require a photo of the result when the task is complete.",
+    "YouCanAlsoReceive": "You can also receive a task too!",
+    "ItsImportant": "It's important to have everything clear from the beggining, so nobody is taken by surprise. You can receive tasks from others, with the option to accept. Update the progress in real time, and confirm your work with a photo to show for.",
+    "KeepTrack": "Keep track",
+    "BothYourDelegated": "Both your delegated tasks, and received tasks are shown by the numbers to keep you updated. Don't let anything slip by!",
+    "Chat": "Chat",
+    "AChatFeature": "A chat feature for any questions and answers along the way. Remember, communication is key!",
+    "ShowOff": "Show off your personal profile",
+    "GetNoticed": "Get noticed, let people find you, and request your amazing work through tasks. Create a jaw-dropping bio, and leave your Instagram or LinkedIn.",
+    "ForTheBold": "For the Bold and Organized..",
+    "Entrepreneurs": "Entrepreneurs",
+    "OfficeWorkers": "Office Workers",
+    "Teachers": "Teachers",
+    "Parents": "Parents",
+    "GrandmaHelpers": "Grandma Helpers",
+    "Freelancers": "Freelancers",
+    "Doctors": "Doctors",
+    "Babysitters" : "Babysitters",
+    "Trainers" : "Trainers",
+    "ToDo" : "To Do List",
+    "SeeIf": "See if Godtasker is right for you... It totally is ;)",
+    "GetStarted": "Get started today!",
+    "Help": "Help",
+    "Privacy": "Privacy",
+    "Terms": "Terms & Conditions",
+    "Eula": "EULA"
+  }
+}
